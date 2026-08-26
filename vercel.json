@@ -1,0 +1,12 @@
+{
+  "redirects": [
+    {
+      "source": "/assets/burger-assembled.png",
+      "destination": "https://raw.githubusercontent.com/GoodspeedStudio/hackathon-2/main/public/assets/burger-assembled.png"
+    },
+    {
+      "source": "/assets/burger-exploded.png",
+      "destination": "https://raw.githubusercontent.com/GoodspeedStudio/hackathon-2/main/public/assets/burger-exploded.png"
+    }
+  ]
+}
